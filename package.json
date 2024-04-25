@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@elysiajs/html": "^1.0.2",
-    "elysia": "latest",
+    "elysia": "^1.0.14",
     "eslint-config-prettier": "^9.1.0",
     "lowdb": "^7.0.1",
     "prettier": "^3.2.5",

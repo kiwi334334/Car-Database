@@ -16,10 +16,17 @@
     },
     {
       "brand": "3",
-      "dateCreated": "2014",
-      "model": "sivic",
-      "description": "the greatest hybrid...",
+      "dateCreated": "2000",
+      "model": "Sivic",
+      "description": "A hybrid car",
       "id": 3
+    },
+    {
+      "brand": "4",
+      "dateCreated": "39960000",
+      "model": "Tank",
+      "description": "Pew Pew",
+      "id": 4
     }
   ],
   "carBrands": [
@@ -34,6 +41,10 @@
     {
       "id": 3,
       "brandName": "Honda"
+    },
+    {
+      "id": 4,
+      "brandName": "Liams Cars"
     }
   ]
 }
